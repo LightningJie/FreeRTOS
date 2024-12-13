@@ -1,0 +1,12 @@
+muban\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+muban\port.o: F:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+muban\port.o: F:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+muban\port.o: ..\Core\Inc\FreeRTOSConfig.h
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\deprecated_definitions.h
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM3\portmacro.h
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+muban\port.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
